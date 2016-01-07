@@ -20,7 +20,7 @@ The goal of our study was to use a genome wide data to provided an improved phyl
 ![](files/thrashers002.png)
 
 ##results
-We used dd-RAD-Seq to generate a reduce genomic dataset for phylogenetic analyses. Following the pipeline of [DaCosta et al. 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106713). This approach generated over 274,000 basepairs of sequence data from 2222 loci. The resulting phylogeny unambiguously supports the monophyly of the West Indian species  that the
+We used dd-RAD-Seq to generate a reduce genomic dataset for phylogenetic analyses. Following the pipeline of [DaCosta et al. 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106713). This approach generated over 274,000 basepairs of sequence data from 2222 loci. The resulting phylogeny unambiguously supports the monophyly of the West Indian species as a single endemic radiation, with the Gray Catbird is now recognized as sister to the poorly-known, Yucantan endemic, Black Catbird (Melanoptila glabrirostris).
 
 ![](files/thrashers004.png)
 

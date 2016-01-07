@@ -26,6 +26,8 @@ We used dd-RAD-Seq to generate a reduce genomic dataset for phylogenetic analyse
 
 Furthermore, a species tree analysis supports the recognition of *Ramphocinclus sanctaeluciae* as distinct from *Ramphocincla brachyura*, agreeing with morphological data and prior taxonomic treatments. This finding should allow Caribbean conservationists to attract additional attention to the highly endangered Martinique population.
 
+![](files/thrashers005.png)
+
 ## collaborator roles
 The project was conceived by Matthew Miller, Jen Mortenson, and Bob Curry. Matthew Miller, Jen Mortenson, Jeff DaCosta and Michael Sorenson designed the study. Jeff DaCosta and Jen Mortenson prepared the genomic libraries. Jeff Dacosta and Michael Sorenson analyzed the data. Matthew Miller and Jeff DaCosta are leading manuscript preparation.
 

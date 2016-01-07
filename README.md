@@ -1,10 +1,5 @@
 ##authors
-Matthew Miller, Villanova University
-Jeff DaCosta, Boston University
-Jen Mortenson, Tufts University
-Michael Sorenson, Boston University
-Robert Curry, Villanova University
-Michael Reed, Tufts University
+Matthew Miller (Villanova University), Jeff DaCosta (Boston University), Jen Mortensen (Tufts University), Michael Sorenson (Boston University), Robert Curry (Villanova University), Michael Reed, (Tufts University)
 
 ## overview
 Nine species of trembers and thrashers (Aves: Mimidae) are found in the West Indies and adjacent Caribbean mainland. Five of the nine species are West Indian endemics, and one species (*Ramphocinclus brachyurus*) is endemic to the islands of St. Lucia and Martinique in the Lesser Antilles where they persist in threatened populations of only a few hundred (Martinique) or a few thousand birds (St. Lucia). 
@@ -15,7 +10,7 @@ Two previous studies ([Hunt et al. 2001](http://stri.si.edu/sites/publications/P
 
 ![](files/thrashers003.png)
 
-The goal of our study was to use a genome wide data to provided an improved phylogeny of the tremblers and thrashers. Additionally, Jen Mortenson obtained genetic material from the Martinique population of *Ramphocincla brachyura*, and our second goal was to see if genomic data could support recognition of this population as a distinct species relative to the St. Lucia population (*Ramphocinclus sanctaeluciae*).
+The goal of our study was to use a genome wide data to provided an improved phylogeny of the tremblers and thrashers. Additionally, Jen Mortensen obtained genetic material from the Martinique population of *Ramphocincla brachyura*, and our second goal was to see if genomic data could support recognition of this population as a distinct species relative to the St. Lucia population (*Ramphocinclus sanctaeluciae*).
 
 ![](files/thrashers002.png)
 
@@ -29,7 +24,7 @@ Furthermore, a species tree analysis supports the recognition of *Ramphocinclus 
 ![](files/thrashers005.png)
 
 ## collaborator roles
-The project was conceived by Matthew Miller, Jen Mortenson, and Bob Curry. Matthew Miller, Jen Mortenson, Jeff DaCosta and Michael Sorenson designed the study. Jeff DaCosta and Jen Mortenson prepared the genomic libraries. Jeff Dacosta and Michael Sorenson analyzed the data. Matthew Miller and Jeff DaCosta are leading manuscript preparation.
+The project was conceived by Matthew Miller, Jen Mortenson, and Bob Curry. Matthew Miller, Jen Mortensen, Jeff DaCosta and Michael Sorenson designed the study. Jeff DaCosta and Jen Mortensen prepared the genomic libraries. Jeff Dacosta and Michael Sorenson analyzed the data. Matthew Miller and Jeff DaCosta are leading manuscript preparation.
 
 ## funding
-Funding for this project came from Villanova University Department of Biology, a Doctoral Dissertation Improvement Grant to Jen Mortenson, and the Sorenson lab.
+Funding for this project came from Villanova University Department of Biology, a Doctoral Dissertation Improvement Grant to Jen Mortensen, and the Sorenson lab.

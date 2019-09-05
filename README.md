@@ -1,4 +1,7 @@
-##authors
+### PLEASE READ THE FINAL PAPER, AVAILABLE HERE:
+https://www.sciencedirect.com/science/article/pii/S1055790319300326
+
+## authors
 Matthew Miller (Villanova University), Jeff DaCosta (Boston University), Jen Mortensen (Tufts University), Michael Sorenson (Boston University), Robert Curry (Villanova University), Michael Reed, (Tufts University)
 
 ## overview
